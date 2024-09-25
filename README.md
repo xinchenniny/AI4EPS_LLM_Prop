@@ -2,15 +2,6 @@
 
 ## LLM-Prop usage in AI4EPS,under construction...
 This repository contains the implementation of the LLM-Prop model. LLM-Prop is an efficiently finetuned large language model (T5 encoder) on crystals text descriptions to predict their properties. Given a text sequence that describes the crystal structure, LLM-Prop encodes the underlying crystal representation from its text description and output its properties such as band gap and volume. 
-
-<!-- ![](figures/llmprop_architecture.png) -->
-
-<p align="center" width="100%">
-    <img src="figures/llmprop_architecture.png" alt="image" width="50%" height="auto">
-    <br>
-    <em>LLM-Prop architecture</em>
-</p>
-
 For more details check [our pre-print](https://doi.org/10.48550/arXiv.2310.14029). 
 
 ## Installation
